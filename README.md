@@ -1,6 +1,6 @@
 USTH ICT Android Development 2024
 ========================================
 
-* **Your ID**
-* **Your name**
-* **Your class**
+* **22BI13008**
+* **Trương Đại An**
+* **ICT - Class 1**
